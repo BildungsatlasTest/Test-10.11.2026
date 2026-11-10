@@ -1,0 +1,62 @@
+schulstufe,unterstufe,thema,aspekt,bezug,fragentitel,frage_text,kanton,darstellungsart,farb_palette,genauigkeit,farbwert_numerisch,kategorie_auswahl,kategorie_sortierung,anzeige_text,original_zitat,bemerkung,quelle_name,quelle_url
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,AG,numerisch,sequenziell,exakt,22,,,22 Lektionen,Genau 22 Lektionen,,Schulgesetz,https://ag.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,AI,text,,Text,,,,Wird autonom entschieden,Die Gemeinden entscheiden autonom. Keine kantonalen Vorgaben.,,Volksschulgesetz,https://ai.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,AR,numerisch,sequenziell,exakt,20,,,20 Lektionen,20 Lektionen,,Schulgesetz,https://ar.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,BE-d,numerisch,sequenziell,Spanne,21,,,18–24 Lektionen,Zwischen 18 und 24 Lektionen je nach Gemeinde.,Gilt für deutschsprachigen Teil,Schulgesetz BE,https://be.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,BE-f,numerisch,sequenziell,exakt,24,,,24 Lektionen,24 leçons.,,Loi BE,https://be.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,BL,numerisch,sequenziell,exakt,20,,,20 Lektionen,20 Lektionen,,Schulgesetz,https://bl.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,BS,numerisch,sequenziell,exakt,24,,,24 Lektionen,24 Lektionen,,Schulgesetz,https://bs.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,FR-d,numerisch,sequenziell,exakt,22,,,22 Lektionen,22 Lektionen,,Schulgesetz,https://fr.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,FR-f,numerisch,sequenziell,exakt,22,,,22 Lektionen,22 leçons,,Loi FR,https://fr.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,GE,numerisch,sequenziell,exakt,24,,,24 Lektionen,24 leçons,,Loi GE,https://ge.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,GL,numerisch,sequenziell,exakt,22,,,22 Lektionen,22 Lektionen,,Schulgesetz,https://gl.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,GR,numerisch,sequenziell,Spanne,20,,,16–24 Lektionen,16 bis 24 Lektionen,,Schulgesetz,https://gr.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,JU,numerisch,sequenziell,exakt,24,,,24 Lektionen,24 leçons,,Loi JU,https://ju.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,LU,numerisch,sequenziell,exakt,22,,,22 Lektionen,22 Lektionen,,Schulgesetz,https://lu.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,NE,numerisch,sequenziell,exakt,24,,,24 Lektionen,24 leçons,,Loi NE,https://ne.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,NW,numerisch,sequenziell,exakt,20,,,20 Lektionen,20 Lektionen,,Schulgesetz,https://nw.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,OW,numerisch,sequenziell,Schwelle,24,,,max. 24 Lektionen,Höchstens 24 Lektionen,,Schulgesetz,https://ow.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,SG,numerisch,sequenziell,exakt,20,,,20 Lektionen,20 Lektionen,,Schulgesetz,https://sg.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,SH,numerisch,sequenziell,exakt,22,,,22 Lektionen,22 Lektionen,,Schulgesetz,https://sh.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,SO,numerisch,sequenziell,exakt,20,,,20 Lektionen,20 Lektionen,,Schulgesetz,https://so.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,SZ,numerisch,sequenziell,Spanne,21,,,18–24 Lektionen,18 bis 24 Lektionen,,Schulgesetz,https://sz.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,TG,numerisch,sequenziell,exakt,22,,,22 Lektionen,22 Lektionen,,Schulgesetz,https://tg.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,TI,numerisch,sequenziell,exakt,25,,,25 Lektionen,25 lezioni,,Legge,https://ti.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,UR,numerisch,sequenziell,exakt,20,,,20 Lektionen,20 Lektionen,,Schulgesetz,https://ur.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,VD,numerisch,sequenziell,exakt,24,,,24 Lektionen,24 leçons,,Loi VD,https://vd.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,VS-d,numerisch,sequenziell,Schwelle,20,,,mind. 20 Lektionen,Mindestens 20 Lektionen,,Schulgesetz,https://vs.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,VS-f,numerisch,sequenziell,Schwelle,20,,,mind. 20 Lektionen,Au moins 20 leçons,,Loi VS,https://vs.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,ZG,numerisch,sequenziell,exakt,22,,,22 Lektionen,22 Lektionen,,Schulgesetz,https://zg.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,ZH,numerisch,sequenziell,exakt,20,,,20 Lektionen,20 Lektionen,,Schulgesetz,https://zh.ch
+Kindergarten,,Unterricht,Dauer,Woche,Lektionen,Wie viele Lektionen?,FL,numerisch,sequenziell,exakt,22,,,22 Lektionen,22 Lektionen,,Schulgesetz,https://llv.li
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,AG,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,AI,kategorial,qualitativ,,,Geteiltes Modell,2,Geteiltes Modell,Geteilt,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,AR,kategorial,qualitativ,,,Geteiltes Modell,2,Geteiltes Modell,Geteilt,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,BE-d,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,BE-f,kategorial,qualitativ,,,Geteiltes Modell,2,Geteiltes Modell,Séparé,,Loi,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,BL,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,BS,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,FR-d,kategorial,qualitativ,,,Geteiltes Modell,2,Geteiltes Modell,Geteilt,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,FR-f,kategorial,qualitativ,,,Geteiltes Modell,2,Geteiltes Modell,Séparé,,Loi,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,GE,kategorial,qualitativ,,,Geteiltes Modell,2,Geteiltes Modell,Séparé,,Loi,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,GL,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,GR,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,JU,kategorial,qualitativ,,,Geteiltes Modell,2,Geteiltes Modell,Séparé,,Loi,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,LU,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,NE,kategorial,qualitativ,,,Geteiltes Modell,2,Geteiltes Modell,Séparé,,Loi,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,NW,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,OW,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,SG,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,SH,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,SO,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,SZ,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,TG,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,TI,kategorial,qualitativ,,,Geteiltes Modell,2,Geteiltes Modell,Separato,,Legge,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,UR,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,VD,kategorial,qualitativ,,,Geteiltes Modell,2,Geteiltes Modell,Séparé,,Loi,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,VS-d,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,VS-f,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Intégré,,Loi,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,ZG,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,ZH,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Struktur,Modell,,Integration,Welches Strukturmodell wird angewendet?,FL,kategorial,qualitativ,,,Integriertes Modell,1,Integriertes Modell,Integrativ,,Gesetz,
+Kindergarten,,Finanzen,Elternbeitrag,,Beitrag,Gibt es Elternbeiträge?,AG,text,,,,,,Keine Beiträge,Unentgeltlich,,Gesetz,
